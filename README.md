@@ -2,9 +2,9 @@
 
 - Python
 - CV2
-======
+---
 Face detection is implemented via built-it Haar Feature-based Cascade Classifier (CV2)
-======
+---
 Input: 
 - webcam stream
 
