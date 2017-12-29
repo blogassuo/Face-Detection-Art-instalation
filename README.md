@@ -16,4 +16,5 @@ Webcam stream.
 
 ## Output
 A) background image that communicates with the visitor (a picture of pseudo desktop of a PC with an intriguing icon)
+
 B) a live stream of a webcam with a face tracking ractangle.
