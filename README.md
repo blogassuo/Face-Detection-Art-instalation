@@ -5,9 +5,15 @@ A script that projects a pseudo-desktop image to a screen to soduce an observer 
 
 Face detection is implemented via built-it Haar Feature-based Cascade Classifier (CV2)
 
+## Content
+- Testing-workbook.ipynb -- a worbook used to developing the script.
+- background.jpg -- sample image for pseudo-desktop representation.
+- haarcascade_frontalface_default.xml -- onboad weights for a face detection algorithm taken from CV2 files.
+- main.py -- main script (run simply `$ python main.py`).
+
 ## Input
-- webcam stream
+Webcam stream.
 
 ## Output
-- A) background image that communicates with the visitor (a picture of pseudo desktop of a PC with an intriguing icon)
-- B) a live stream of a webcam with a face tracking ractangle.
+A) background image that communicates with the visitor (a picture of pseudo desktop of a PC with an intriguing icon)
+B) a live stream of a webcam with a face tracking ractangle.
